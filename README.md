@@ -12,6 +12,7 @@ Getting Started
 http://lamp.cse.fau.edu/~pandyaa2013/WiParkTest/
 As of right now we cannot provide access to copy and reuse our web application, but I have provided the link to access it above.
 
+[Screenshot!](WiParkWebApp.JPG)
 
 Built With
 
