@@ -1,4 +1,5 @@
 *** This is the web application designed to host our WiPark system that we created for our senior project in Engineering Design 2.***
+
 *** Team Members: Adam Perlman, Aalap Pandya, Elliot Fersko, Ryan Zelaya ***
 
 Project Title
