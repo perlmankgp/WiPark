@@ -1,0 +1,21 @@
+.parking-space {
+  fill: red;
+  stroke: black;
+  stroke-width: 2;
+  width: 40px;
+  height: 20px;
+}
+
+.parking-space.empty {
+  fill: springgreen;
+}
+
+.parking-space.vert {
+  width: 20px;
+  height: 40px;
+}
+
+
+label {
+    color: dodgerblue;
+}
